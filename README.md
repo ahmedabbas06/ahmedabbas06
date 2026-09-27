@@ -6,7 +6,6 @@ I'm continuously improving my Flutter skills by building real-world projects and
 
 - 🎓 Computer Science Student
 - 📱 Flutter Developer
-- 🏗️ Interested in Clean Architecture and scalable applications
 - 🚀 Currently building and improving Flutter projects
 - 🌱 Always learning and improving my development skills
 
