@@ -40,7 +40,9 @@ A Flutter application for managing personal subscriptions using Firebase and loc
 
 ### Database & Storage
 
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FFB300?style=for-the-badge)
+![SharedPreferences](https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge)
 
 ### Development Tools
 
